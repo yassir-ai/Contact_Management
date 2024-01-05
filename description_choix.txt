@@ -1,7 +1,7 @@
 
-Vous trouverez ci-joint ma propre solution pour le TP à rendre, du développement .Net.
-Pour les choix technique : pour la structure  (structure de base), j'essaye toujours d'utiliser des attributs de rappel ( par exemple qui me rappelle du parent ou bien du dernier fichier créé pour mieux gérer la structure).
-Les problèmes étaient un peu aux niveau du cryptage en relation avec la sérialisation, j'ai essayé de traiter le maximum d'exception spécifiques. Pour l'application console, j'ai bien travaillé pour que ça soit très claire et très réaliste pour n'importe quel utilisateur, et toujours je donne des indications au utilisateur.
+Vous trouverez ci-joint ma propre solution pour le projet de management de contact, développé avec du .net framework en language C#.
 
-
-
+Pour les choix technique :
+ pour la structure  (structure de base), j'essaye toujours d'utiliser des attributs de rappel ( par exemple qui me rappelle du parent ou bien du dernier fichier créé pour mieux gérer la structure).
+ 
+Les problèmes étaient un peu aux niveau du cryptage en relation avec la sérialisation, j'ai essayé de traiter le maximum d'exception spécifiques. Pour l'application console, j'ai bien travaillé pour que ça soit très claire et très réaliste pour n'importe quel utilisateur, je donne toujours des indications au utilisateur.
