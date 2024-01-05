@@ -1,0 +1,9 @@
+C:\Users\yamraniala\source\repos\ConsoleApp3\Serialisation\bin\Debug\Serialisation.dll
+C:\Users\yamraniala\source\repos\ConsoleApp3\Serialisation\bin\Debug\Serialisation.pdb
+C:\Users\yamraniala\source\repos\ConsoleApp3\Serialisation\bin\Debug\Gestion.dll
+C:\Users\yamraniala\source\repos\ConsoleApp3\Serialisation\bin\Debug\Gestion.pdb
+C:\Users\yamraniala\source\repos\ConsoleApp3\Serialisation\obj\Debug\Serialisation.csproj.AssemblyReference.cache
+C:\Users\yamraniala\source\repos\ConsoleApp3\Serialisation\obj\Debug\Serialisation.csproj.CoreCompileInputs.cache
+C:\Users\yamraniala\source\repos\ConsoleApp3\Serialisation\obj\Debug\Serialisation.csproj.CopyComplete
+C:\Users\yamraniala\source\repos\ConsoleApp3\Serialisation\obj\Debug\Serialisation.dll
+C:\Users\yamraniala\source\repos\ConsoleApp3\Serialisation\obj\Debug\Serialisation.pdb

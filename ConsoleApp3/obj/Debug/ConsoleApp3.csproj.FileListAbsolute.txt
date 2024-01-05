@@ -1,0 +1,13 @@
+C:\Users\yamraniala\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\yamraniala\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\yamraniala\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\yamraniala\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Gestion.dll
+C:\Users\yamraniala\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Serialisation.dll
+C:\Users\yamraniala\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Gestion.pdb
+C:\Users\yamraniala\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\Serialisation.pdb
+C:\Users\yamraniala\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\yamraniala\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\yamraniala\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CopyComplete
+C:\Users\yamraniala\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\yamraniala\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\yamraniala\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache

@@ -1,0 +1,6 @@
+C:\Users\yamraniala\source\repos\ConsoleApp3\Gestion\bin\Debug\Gestion.dll
+C:\Users\yamraniala\source\repos\ConsoleApp3\Gestion\bin\Debug\Gestion.pdb
+C:\Users\yamraniala\source\repos\ConsoleApp3\Gestion\obj\Debug\Gestion.csproj.AssemblyReference.cache
+C:\Users\yamraniala\source\repos\ConsoleApp3\Gestion\obj\Debug\Gestion.csproj.CoreCompileInputs.cache
+C:\Users\yamraniala\source\repos\ConsoleApp3\Gestion\obj\Debug\Gestion.dll
+C:\Users\yamraniala\source\repos\ConsoleApp3\Gestion\obj\Debug\Gestion.pdb
