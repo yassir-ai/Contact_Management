@@ -77,7 +77,7 @@ namespace ConsoleApp
         }
 
 
-        /*Methode qui crée un fichier*/
+        /*Methode qui crée un fichier*/ 
         public static string creationFichier()
         {
             string nom_fichier = "";
