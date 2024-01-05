@@ -45,7 +45,7 @@ namespace Gestion
         }
 
         public Contact()
-        { }
+        {}
 
         public int Position
         {
