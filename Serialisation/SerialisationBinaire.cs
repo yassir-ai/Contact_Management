@@ -70,7 +70,7 @@ namespace Serialisation
             }
             catch (Exception e)
             {
-                throw new Exception();                             //lever l exception au main
+                throw new Exception();                              //lever l exception au main
             }
 
             if (crStream != null)  crStream.Close();
