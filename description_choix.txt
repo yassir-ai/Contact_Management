@@ -4,7 +4,7 @@ du .net framework en language C#.
 
 Pour les choix technique :
 Pour la structure  (structure de base), j'essaye toujours d'utiliser des attributs de rappel ( qui
-me rappelle du parent ou bien du dernier fichier créé pour mieux gérer la structure).
+me rappelle du parent ou bien du dernier fichier créé pour mieux gérer la structure). 
  
 Les problèmes étaient un peu aux niveau du cryptage en relation avec la sérialisation, j'ai essayé de traiter 
 le maximum d'exception spécifiques. Pour l'application console, j'ai bien travaillé pour que ça soit très claire et très réaliste pour n'importe quel utilisateur, je donne toujours des indications au utilisateur.
