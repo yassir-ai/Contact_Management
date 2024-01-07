@@ -1,4 +1,3 @@
-
 Vous trouverez ci-joint ma propre solution pour le projet de management de contact, développé avec 
 du .net framework en language C#.
 
